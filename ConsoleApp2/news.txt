@@ -1,0 +1,5 @@
+Just two days ago, Ubuntu marked the 16th anniversary of its first ever release, Ubuntu 4.10 Warty Warthog, which showed Linux could be a more user friendly operating system.
+
+Back to now, after the six months of development cycle and the release of the current long-term Ubuntu 20.04 Focal Fossa, Canonical has announced a new version called Ubuntu 20.10  Groovy Gorilla along with its seven official flavor: Kubuntu, Lubuntu, Ubuntu MATE, Ubuntu Kylin, Xubuntu, Ubuntu Budgie, and Ubuntu Studio.
+
+Ubuntu 20.10 is a short term or non-LTS release, which means it will be supported for 9 months until July 2021. Though v20.10 does not seem a major release, it does come with a lot of exciting and new features. So, let's see what Ubuntu 20.10 Groovy Gorilla has to offer:
